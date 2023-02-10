@@ -6,5 +6,6 @@ public class ClasePrincipal {
         System.out.println("hhs");
         System.out.println("CLase PRo");
         System.out.println("Estamos mareados con GIT");
+        System.out.println("Intento numero de aprender git ");
     }
 }
